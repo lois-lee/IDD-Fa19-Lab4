@@ -33,6 +33,8 @@ Pin 9
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
+[Potentiometer controlling Servo Demo](https://drive.google.com/file/d/1bHEnCXqqYbjzoCqx_ZDifpZA8wKYrGNh/view?usp=sharing)
+![](1.png)
 
 ## Part D. Paper puppet
 
