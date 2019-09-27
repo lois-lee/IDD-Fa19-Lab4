@@ -8,7 +8,7 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+[Vibrating Motor Video](https://drive.google.com/file/d/1YvCaHLDKz22taWAh3Sgko17NfcB-n7qy/view?usp=sharing)
 
 ## Part B. Actuating Servo motors
 
@@ -33,12 +33,13 @@ Pin 9
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
+
 [Potentiometer controlling Servo Demo](https://drive.google.com/file/d/1bHEnCXqqYbjzoCqx_ZDifpZA8wKYrGNh/view?usp=sharing)
 ![](1.png)
 
 ## Part D. Paper puppet
 
-**a. Make a video of your proto puppet.**
+[Paper puppet](https://drive.google.com/file/d/1e2LZXIZzmrAuDNSeTYafqshqS0PFgd05/view?usp=sharing)
 
 ## Part E. Make it your own
 
