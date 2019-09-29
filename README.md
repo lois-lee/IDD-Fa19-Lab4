@@ -1,6 +1,6 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Lois Lee*
 
 ## In this Report
 
@@ -39,9 +39,14 @@ Pin 9
 
 ## Part D. Paper puppet
 
-[Paper puppet](https://drive.google.com/file/d/1e2LZXIZzmrAuDNSeTYafqshqS0PFgd05/view?usp=sharing)
+[Paper puppet]()
 
 ## Part E. Make it your own
 
+
+My paper puppet is a distressed puppet that screams at a pitch based on the potentiometer reading, and moves his arms up and down based on the pitch. The higher the pitch the higher his arms and the more distressed he gets.
+
+[Code for Distressed Puppet]()
+[Video for Distressed Puppet]()
 **a. Make a video of your final design.**
  
