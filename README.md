@@ -39,14 +39,14 @@ Pin 9
 
 ## Part D. Paper puppet
 
-[Paper puppet]()
+[Paper puppet](https://drive.google.com/file/d/1aYniqdjQkItdTvIigmhJDLGudJfjjKwg/view?usp=sharing)
 
 ## Part E. Make it your own
 
 
 My paper puppet is a distressed puppet that screams at a pitch based on the potentiometer reading, and moves his arms up and down based on the pitch. The higher the pitch the higher his arms and the more distressed he gets.
 
-[Code for Distressed Puppet]()
-[Video for Distressed Puppet]()
+[Code for Distressed Puppet](https://drive.google.com/file/d/1gmDH3vVgBclelb13uFMQZ24zH1UW0oBr/view?usp=sharing)
+[Video for Distressed Puppet](Distressed.ino)
 **a. Make a video of your final design.**
  
